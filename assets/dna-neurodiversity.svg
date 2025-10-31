@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">DNA and neurodiversity illustration</title>
+  <desc id="desc">Abstract DNA double helix interwoven with neurodiversity infinity symbol.</desc>
+  <defs>
+    <linearGradient id="dna" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4361ee" />
+      <stop offset="100%" stop-color="#4895ef" />
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#f72585" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#480ca8" stop-opacity="0.25" />
+    </radialGradient>
+  </defs>
+  <rect width="960" height="540" fill="#03045e" rx="32" />
+  <circle cx="480" cy="270" r="240" fill="url(#halo)" opacity="0.6" />
+  <g transform="translate(210 90)">
+    <path d="M144 0c120 180 120 180 240 0s120-180 240 0" fill="none" stroke="#bbdefb" stroke-width="24" stroke-linecap="round" opacity="0.4" />
+    <path d="M144 40c120 160 120 160 240 0s120-160 240 0" fill="none" stroke="url(#dna)" stroke-width="20" stroke-linecap="round" />
+    <path d="M144 120c120 160 120 160 240 0s120-160 240 0" fill="none" stroke="#4cc9f0" stroke-width="16" stroke-linecap="round" opacity="0.8" />
+  </g>
+  <g transform="translate(180 220)" fill="none" stroke-width="20">
+    <path d="M0 80c40-80 160-80 200 0s160 80 200 0" stroke="#fca311" stroke-linecap="round" />
+    <path d="M400 80c40-80 160-80 200 0s160 80 200 0" stroke="#06d6a0" stroke-linecap="round" />
+  </g>
+  <g fill="#f1f6f9" font-family="'Segoe UI', sans-serif" font-size="28" font-weight="600" opacity="0.85">
+    <text x="120" y="140">Genetics</text>
+    <text x="720" y="140">Neurodiversity</text>
+    <text x="120" y="420">Science</text>
+    <text x="720" y="420">Inclusion</text>
+  </g>
+  <text x="50%" y="500" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="30" fill="#caf0f8" opacity="0.85">Evidence-based research affirms: vaccines do not cause autism.</text>
+</svg>
+
+

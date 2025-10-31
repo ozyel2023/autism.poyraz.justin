@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Inclusive classroom illustration</title>
+  <desc id="desc">An abstract illustration representing a teacher guiding a student with supportive classmates.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#002b5b" />
+      <stop offset="100%" stop-color="#1768ac" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#48cae4" />
+      <stop offset="100%" stop-color="#90e0ef" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg)" rx="32" />
+  <circle cx="180" cy="180" r="120" fill="#fef9ef" opacity="0.25" />
+  <circle cx="760" cy="160" r="150" fill="#fef9ef" opacity="0.15" />
+  <g transform="translate(140 220)">
+    <rect x="0" y="0" width="280" height="180" rx="24" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.35)" stroke-width="4" />
+    <rect x="32" y="36" width="216" height="48" rx="12" fill="url(#accent)" opacity="0.9" />
+    <rect x="32" y="104" width="180" height="32" rx="16" fill="rgba(255,255,255,0.6)" />
+  </g>
+  <g transform="translate(420 150)">
+    <path d="M120 0c66 0 120 54 120 120s-54 120-120 120S0 186 0 120 54 0 120 0z" fill="#f77f00" opacity="0.45" />
+    <path d="M120 20c55 0 100 45 100 100s-45 100-100 100-100-45-100-100 45-100 100-100z" fill="#ffba08" opacity="0.3" />
+    <path d="M120 40c44 0 80 36 80 80s-36 80-80 80-80-36-80-80 36-80 80-80z" fill="#90e0ef" opacity="0.45" />
+  </g>
+  <g transform="translate(560 300)">
+    <rect x="0" y="0" width="260" height="160" rx="22" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.35)" stroke-width="4" />
+    <rect x="28" y="32" width="204" height="40" rx="14" fill="rgba(255,255,255,0.7)" />
+    <rect x="28" y="88" width="134" height="34" rx="12" fill="url(#accent)" opacity="0.8" />
+  </g>
+  <text x="50%" y="500" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="32" fill="#f1f6f9" opacity="0.8">Inclusive learning environments empower every student.</text>
+</svg>
+
+
